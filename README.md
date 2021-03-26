@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @purxiz
+- 👀 I’m interested in contributing to open source, tiling window managers, and some video games, etc. etc.
+- 🌱 I’m currently (re)learning c++, rust, and other non-web focused languages
+- 💞️ I’m looking to collaborate on whatever is interesting
+- 📫 @me on github
